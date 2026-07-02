@@ -70,3 +70,12 @@ The insurance company wants to analyse the insurance data to monitor premiums, c
 ## Dashboard
 <img width="1345" height="756" alt="Screenshot 2026-06-30 113911" src="https://github.com/user-attachments/assets/c114da8e-6d2c-4059-ab04-9648f14891ce" />
 
+## Project Insights
+- 28% of policies are held by customers aged 65+, highlighting a strong senior base
+- Auto, Health, Life, and Property policies are evenly distributed (~25% each)
+- Premium growth rates fluctuate sharply, with notable declines in 2022 (‑9%) and 2023 (‑7%)
+- Payment failures are nearly equal to successes (49.7% vs 50.3%), signaling process inefficiency
+- Claim ratio averages around 48–50%, requiring careful risk management
+
+## Conclusion
+The Insurance Dashboard highlights a strong senior customer base and a well‑balanced policy portfolio across Auto, Health, Life, and Property. Financial metrics reveal volatility in premium growth and a nearly equal split between successful and failed payments, signaling operational inefficiencies. Overall, the dashboard underscores the need for improved payment processes, renewal strategies, and risk management to stabilize growth and enhance customer retention

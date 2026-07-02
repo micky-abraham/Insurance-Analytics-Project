@@ -30,6 +30,43 @@ The insurance company wants to analyse the insurance data to monitor premiums, c
 ## Dashboard
 <img width="1648" height="906" alt="Screenshot 2026-06-30 154458" src="https://github.com/user-attachments/assets/3d34c8e4-db16-4163-a238-fdb5ad10f94c" />
 
-- 
-  
+## Tableau Dashboard
+- <a href="https://github.com/micky-abraham/Insurance-Analytics-Project/blob/main/Insurance%20-%20Tableau.twbx">View Dashboard</a>
+
+## Process
+- Data file imported and relationship established in **logical layer**
+- Relationship between the tables eatsblished with common fields like ID's
+- Datatype and null spaces are monitored and corrected
+- Each KPI created in particular sheets and dragged them to create a single dahsboard
+- **Parameters and measures** created along with Filters for smooth dynamic functioning
+
+## Dashboard
+<img width="1386" height="887" alt="Screenshot 2026-06-30 113520" src="https://github.com/user-attachments/assets/d13288a9-74ba-4d00-b2c7-58ad02b849e0" />
+
+## MySQL Queries
+- <a href="https://github.com/micky-abraham/Insurance-Analytics-Project/blob/main/Insurance%20-%20SQL.sql">View Dashboard</a>
+
+## Process
+- Database created and large datafiles imported using **load data infile** statement
+- Proper datatype given for each field
+- Data validation done by checking there are matching headers between each table 
+- Queries for each KPI created using **select** statement to extract data 
+- Values arranged in ascending or descenidng order
+
+## Dashboard
+<img width="1262" height="637" alt="Screenshot 2026-07-02 143945" src="https://github.com/user-attachments/assets/4db30af6-ffac-4877-a92e-24f028664cd3" />
+<img width="1248" height="672" alt="Screenshot 2026-07-02 144012" src="https://github.com/user-attachments/assets/4299cc8e-c269-41bd-9236-f278cc70f328" />
+<img width="1251" height="658" alt="Screenshot 2026-07-02 144042" src="https://github.com/user-attachments/assets/40f2fe78-dddc-44bd-9138-6d83db3a06a8" />
+
+## Power BI Dashboard
+- <a href="https://github.com/micky-abraham/Insurance-Analytics-Project/blob/main/Insurance%20-%20Power%20BI.pbix>View Dashboard</a>
+
+## Process
+- Import data to **power query** and check for null values and proper datatype
+- Add cards and visuals for each KPI and arrange them neatly in the canvas
+- Measures created for accurate results and avoiding mix up
+- **Filters** added for the interactive dashboard
+
+## Dashboard
+<img width="1345" height="756" alt="Screenshot 2026-06-30 113911" src="https://github.com/user-attachments/assets/c114da8e-6d2c-4059-ab04-9648f14891ce" />
 

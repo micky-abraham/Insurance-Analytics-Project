@@ -59,7 +59,7 @@ The insurance company wants to analyse the insurance data to monitor premiums, c
 <img width="1251" height="658" alt="Screenshot 2026-07-02 144042" src="https://github.com/user-attachments/assets/40f2fe78-dddc-44bd-9138-6d83db3a06a8" />
 
 ## Power BI Dashboard
-- <a href="https://github.com/micky-abraham/Insurance-Analytics-Project/blob/main/Insurance%20-%20Power%20BI.pbix>View Dashboard</a>
+- <a href="https://github.com/micky-abraham/Insurance-Analytics-Project/blob/main/Insurance%20-%20Power%20BI.pbix">View Dashboard</a>
 
 ## Process
 - Import data to **power query** and check for null values and proper datatype
